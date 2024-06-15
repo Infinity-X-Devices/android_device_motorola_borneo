@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_borneo.mk
+    $(LOCAL_DIR)/infinity_borneo.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_borneo-user \
-    lineage_borneo-userdebug \
-    lineage_borneo-eng
+    infinity_borneo-user \
+    infinity_borneo-userdebug \
+    infinity_borneo-eng
